@@ -1,8 +1,6 @@
 # TencentCloud_Windows_MonitorCheck_Tools
 腾讯云检测WIndows Server巴拉多监控上报情况GUI工具
 
-腾讯云Windows Server 手动添加路由小工具
-
 功能简述： 腾讯云Windows Server上默认安装巴拉多监控用作上报OS类各种性能监控数据并体现在腾讯云云监控产品中，通常发现腾讯云Windows Server CVM监控中断时可以通过该工具检查巴拉多监控是否正常运行，以便于快速排障
 
 开发语言：
