@@ -28,3 +28,7 @@ Windows Server 2008 R2 、 Windows Server 2012/2012R2 、 Windows Server 2016/20
 下载成品链接：
 
 https://platform01-1252076932.cos.ap-chengdu.myqcloud.com/statli_tools/Barad_Agent_Check_For_Windows_v1.2.1.exe
+
+若运行时闪退可能是因为PowerShell策略限制，可手动运行该命令进行解锁：
+
+powershell "Set-ExecutionPolicy -ExecutionPolicy Unrestricted -force |Out-null"
