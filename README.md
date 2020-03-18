@@ -1,0 +1,2 @@
+# TencentCloud_Windows_MonitorCheck_Tools
+腾讯云检测WIndows Server巴拉多监控上报情况GUI工具
